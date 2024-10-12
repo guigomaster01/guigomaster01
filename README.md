@@ -30,7 +30,7 @@
 
 - 💬 Podemos conversar sobre **react, desenvolvimento mobile, paternidade, dicas de estudos e criação de vídeos** 
 
-- 📫 Se quiser me mandar um e-mail **contatorodrigorodrigues@gmail.com** (mailto:contatorodrigorodrigues.com.br)
+- 📫 Se quiser me mandar um e-mail **contatorodrigorodrigues@gmail.com**
 
 - ⚡ Um fato diferente **ninguém irá lembrar de nós daqui 120 anos, então melhor fazermos fazer a pena.**
 

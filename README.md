@@ -7,6 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/guigomasterreal" target="blank"><img src="https://img.shields.io/twitter/follow/guigomasterreal?logo=twitter&style=for-the-badge" alt="guigomasterreal" /></a> </p>
 
+## 🌟 Soft Skills
+
+| Habilidade                | Descrição                                                                                  |
+|---------------------------|--------------------------------------------------------------------------------------------|
+| **Comunicação eficaz**     | Capacidade de transmitir informações de forma clara e precisa, facilitando o trabalho em equipe. |
+| **Trabalho sob pressão**   | Experiência em manter a calma e entregar resultados mesmo em situações desafiadoras ou com prazos curtos. |
+| **Resolução de problemas** | Habilidade de analisar situações e propor soluções eficientes, reduzindo impactos operacionais. |
+| **Colaboração**            | Foco no trabalho em equipe, promovendo cooperação e um ambiente produtivo para alcançar objetivos comuns. |
+| **Gerenciamento de prazos**| Comprometimento com o cumprimento de prazos, garantindo que entregas sejam feitas dentro do esperado. |
+| **Adaptabilidade**         | Facilidade para lidar com mudanças rápidas e inesperadas, ajustando prioridades conforme necessário. |
+| **Empatia**                | Capacidade de entender diferentes perspectivas, melhorando a comunicação e a resolução de conflitos. |
+| **Facilidade para lidar com situações difíceis** | Experiência em resolver problemas complexos e tomar decisões em momentos críticos. |
+
 - 🌱 Atualmente estou estudando **Salesforce, Apex, Trigger, LWC**
 
 - 👨‍💻 Todos meus projetos estão disponivéis em [https://github.com/guigomaster01](https://github.com/guigomaster01)
@@ -41,16 +54,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guigomaster01&show_icons=true&locale=en" alt="guigomaster01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guigomaster01&" alt="guigomaster01" /></p>
-
-- ## 🌟 Soft Skills
-
-| Habilidade                | Descrição                                                                                  |
-|---------------------------|--------------------------------------------------------------------------------------------|
-| **Comunicação eficaz**     | Capacidade de transmitir informações de forma clara e precisa, facilitando o trabalho em equipe. |
-| **Trabalho sob pressão**   | Experiência em manter a calma e entregar resultados mesmo em situações desafiadoras ou com prazos curtos. |
-| **Resolução de problemas** | Habilidade de analisar situações e propor soluções eficientes, reduzindo impactos operacionais. |
-| **Colaboração**            | Foco no trabalho em equipe, promovendo cooperação e um ambiente produtivo para alcançar objetivos comuns. |
-| **Gerenciamento de prazos**| Comprometimento com o cumprimento de prazos, garantindo que entregas sejam feitas dentro do esperado. |
-| **Adaptabilidade**         | Facilidade para lidar com mudanças rápidas e inesperadas, ajustando prioridades conforme necessário. |
-| **Empatia**                | Capacidade de entender diferentes perspectivas, melhorando a comunicação e a resolução de conflitos. |
-| **Facilidade para lidar com situações difíceis** | Experiência em resolver problemas complexos e tomar decisões em momentos críticos. |

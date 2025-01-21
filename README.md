@@ -34,12 +34,6 @@
 
 - ⚡ Um fato diferente **ninguém irá lembrar de nós daqui 120 anos, então melhor fazermos fazer a pena.**
 
-<h3 align="left">Entre em contato comigo:</h3>
-<p align="left">
-<a href="https://twitter.com/guigomasterreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guigomasterreal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rodrigo-ferreira-157817b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-ferreira-157817b4" height="30" width="40" /></a>
-<a href="https://instagram.com/imrodrigorodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imrodrigorodrigues" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Ferramentas e linguagens:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 

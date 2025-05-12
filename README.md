@@ -134,8 +134,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=guigomaster01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/guigomaster01/guigomaster01/output/snake.svg" alt="Snake animation" />
 
 ###

@@ -129,13 +129,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/guigomaster01/guigomaster01/output/snake.svg" alt="Snake animation" />
-
-###
